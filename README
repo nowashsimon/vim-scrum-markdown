@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5139
+
+ Usage
+ -----
+ 
+ Say you are in a *scrum/* directory.
+ 
+ * create a *scrum/tasks/* subdirectory.
+ * create a file *scrum/backlog.md* 
+ * Add tasks in *backlog.md* as links, you only need to type tasks names between brackets, hiting *ENTER* will automatically create the associated link and file in where you can enter the detailed user story. Hit *Shift + Enter* to return to the backlog file.
+ 
+
+ * cut and paste your tasks to sprint-x.md files to plan your sprints
